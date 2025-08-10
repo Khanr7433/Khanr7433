@@ -71,13 +71,13 @@
 ### 🏆 GitHub Stats & Badges
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Khanr7433?color=blue&label=Followers&style=for-the-badge" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/repos/Khanr7433?color=green&label=Public%20Repos&style=for-the-badge" alt="Public Repos"/>
+  <img src="https://img.shields.io/github/followers/Khanr7433?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/repo-count/Khanr7433?label=Public%20Repos&style=for-the-badge" alt="Public Repos"/>
   <img src="https://img.shields.io/github/last-commit/Khanr7433/portfolio?label=Last%20Portfolio%20Commit&style=for-the-badge" alt="Last Commit"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khanr7433&show_icons=true&hide=issues,contribs&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Khanr7433&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khanr7433&bg_color=ffffff&color=fc036b&line=fc036b&point=24292e&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
