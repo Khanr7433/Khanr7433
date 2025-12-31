@@ -7,7 +7,7 @@
   <img src="https://github.com/Khanr7433.png" alt="Profile" width="150" style="border-radius: 50%; border: 4px solid #fc036b; box-shadow: 0 8px 32px rgba(252, 3, 107, 0.3);"/>
   
   <h2 style="margin: 20px 0;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FC036B&center=true&vCenter=true&width=600&lines=Full+Stack+(MERN)+Developer;Building+Scalable+Web+Applications;Passionate+Problem+Solver;Always+Learning+%26+Growing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=30&duration=3000&pause=1000&color=FC036B&center=true&vCenter=true&width=600&lines=Full+Stack+(MERN)+Developer;Building+Scalable+Web+Applications;Passionate+Problem+Solver;Always+Learning+%26+Growing" alt="Typing SVG" />
   </h2>
   
   <p>
@@ -48,16 +48,19 @@
 ## 🛠️ Tech Arsenal
 
 ### 🎨 **Frontend Mastery**
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,html,css,tailwind&theme=dark" alt="Frontend Skills"/>
 </div>
 
 ### ⚙️ **Backend Power**
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,django&theme=dark" alt="Backend Skills"/>
 </div>
 
 ### 🗄️ **Database & Cloud**
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="Database Skills"/>
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
@@ -65,23 +68,27 @@
 </div>
 
 ### 🔧 **Development Ecosystem**
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,androidstudio&theme=dark" alt="Tools"/>
 </div>
 
 ### 🚀 **API & Build Tools**
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=postman,npm,vite&theme=dark" alt="API Tools"/>
   <img src="https://img.shields.io/badge/Thunder_Client-FF6B35?style=for-the-badge&logo=thunderclient&logoColor=white" alt="Thunder Client"/>
 </div>
 
 ### 🌐 **Deployment & Hosting**
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vercel,netlify&theme=dark" alt="Deployment"/>
   <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages"/>
 </div>
 
 ### 🎨 **Design & Productivity**
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma,photoshop&theme=dark" alt="Design"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
@@ -174,7 +181,9 @@
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/Khanr7433?label=Followers&style=for-the-badge&color=fc036b&labelColor=1a1a1a" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/badge/dynamic/json?label=Repositories&query=public_repos&url=https://api.github.com/users/Khanr7433&style=for-the-badge&color=fc036b&labelColor=1a1a1a" alt="Public Repos"/>
+  <a href="https://github.com/Khanr7433?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View_All-fc036b?style=for-the-badge&labelColor=1a1a1a" alt="Public Repos"/>
+  </a>
   <img src="https://img.shields.io/github/last-commit/Khanr7433/portfolio?label=Last%20Commit&style=for-the-badge&color=fc036b&labelColor=1a1a1a" alt="Last Commit"/>
 </div>
 
@@ -186,11 +195,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khanr7433&theme=dark&hide_border=true&background=0D1117&stroke=fc036b&ring=fc036b&fire=fc036b&currStreakLabel=fc036b" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Khanr7433&theme=dark&hide_border=true&background=0D1117&stroke=fc036b&ring=fc036b&fire=fc036b&currStreakLabel=fc036b" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Khanr7433&bg_color=0D1117&color=fc036b&line=fc036b&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khanr7433&bg_color=0D1117&color=fc036b&line=fc036b&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -214,7 +223,7 @@
 </div>
 
 <div align="center">
-  <a href="https://portfolio-rashid-khan.vercel.app">
+  <a href="https://khanr7433.infinityfreeapp.com">
     <img src="https://img.shields.io/badge/🌟_Portfolio-Visit_My_Work-fc036b?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a" alt="Portfolio"/>
   </a>
   <a href="mailto:khan.rashid.7433@gmail.com">
@@ -231,6 +240,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" width="100%"/>
   
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=FC036B&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!+🚀;Let's+build+something+amazing!;Happy+Coding!+💻" alt="Footer Typing SVG" />
+    <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=22&duration=2000&pause=1000&color=FC036B&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!+🚀;Let's+build+something+amazing!;Happy+Coding!+💻" alt="Footer Typing SVG" />
   </h3>
 </div>
