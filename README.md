@@ -204,18 +204,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🎯_GitHub_Trophies-fc036b?style=for-the-badge&labelColor=1a1a1a" alt="Trophies Header"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Khanr7433&theme=dark&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
