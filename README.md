@@ -182,7 +182,7 @@
 <div align="center">
   <img src="https://img.shields.io/github/followers/Khanr7433?label=Followers&style=for-the-badge&color=fc036b&labelColor=1a1a1a" alt="GitHub Followers"/>
   <a href="https://github.com/Khanr7433?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View_All-fc036b?style=for-the-badge&labelColor=1a1a1a" alt="Public Repos"/>
+    <img src="https://img.shields.io/badge/dynamic/json?label=Repositories&query=public_repos&url=https://api.github.com/users/Khanr7433&style=for-the-badge&color=fc036b&labelColor=1a1a1a" alt="Public Repos"/>
   </a>
   <img src="https://img.shields.io/github/last-commit/Khanr7433/portfolio?label=Last%20Commit&style=for-the-badge&color=fc036b&labelColor=1a1a1a" alt="Last Commit"/>
 </div>
@@ -195,7 +195,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Khanr7433&theme=dark&hide_border=true&background=0D1117&stroke=fc036b&ring=fc036b&fire=fc036b&currStreakLabel=fc036b" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Khanr7433&theme=dark&hide_border=true&background=0D1117&stroke=fc036b&ring=fc036b&fire=fc036b&currStreakLabel=fc036b" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -211,7 +211,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Khanr7433&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Khanr7433&theme=discord&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
